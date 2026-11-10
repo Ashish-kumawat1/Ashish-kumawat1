@@ -35,8 +35,8 @@ I'm a **full stack developer** who enjoys building products that people actually
 
 </div>
 
-| Area | Tools |
-| :-- | :-- |
+| Area  | Tools |
+| :--   | :-- |
 | **Frontend** | React, Vite, JavaScript, Tailwind CSS, three.js |
 | **Backend** | Node.js, Express, REST APIs, JWT authentication |
 | **Database** | MongoDB, MySQL, PostgreSQL / AlloyDB |
@@ -47,7 +47,7 @@ I'm a **full stack developer** who enjoys building products that people actually
 
 ## 🚀 Featured Projects
  
-**| Project | What it does | Language | visibility |**
+| Project | What it does | Language | visibility |
 | :-- | :-- | :-- | :-- |
 | [**clinic**](https://github.com/Ashish-kumawat1/clinic) | Multi-portal clinic management platform with separate admin, doctor, patient, lab and public portals. | ![lang](https://img.shields.io/github/languages/top/Ashish-kumawat1/clinic?style=flat-square&color=2c5364&label=) |private |
 | [**shopflow**](https://github.com/Ashish-kumawat1/shopflow) | Shopping app and my most active project, with 50+ commits and a pull-request workflow. | ![lang](https://img.shields.io/github/languages/top/Ashish-kumawat1/shopflow?style=flat-square&color=2c5364&label=) |private |
