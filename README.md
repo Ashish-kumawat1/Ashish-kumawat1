@@ -6,10 +6,10 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumawat-35b577304)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumawatashish842@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO.com)
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=2c5364&label=PROFILE+VIEWS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://YOUR_PORTFOLIO.com](https://akdevelpoer.netlify.app/))
+
 
 </div>
 
@@ -19,7 +19,7 @@
 
 I'm a **full stack developer** who enjoys building products that people actually use, from clean React interfaces to reliable Node.js APIs and cloud deployments.
 
-- 🏥 Building **QuickClinic**, a multi-portal clinic management platform
+- 🏥 Building **Clinic**, a multi-portal clinic management platform
 - ☁️ Learning **Google Cloud**: Cloud SQL, AlloyDB, BigQuery ML, Binary Authorization
 - 🧱 Exploring **Infrastructure as Code** with Terraform
 - 🎨 Experimenting with **3D on the web** using three.js
@@ -46,13 +46,15 @@ I'm a **full stack developer** who enjoys building products that people actually
 ---
 
 ## 🚀 Featured Projects
-
-| Project | What it does | Tech |
+ 
+| Project | What it does | Language |
 | :-- | :-- | :-- |
-| [**QuickClinic**](https://github.com/YOUR_USERNAME/QuickClinic) | Clinic platform with separate portals for admin, doctor, patient, lab and the public. It covers appointments, profiles and lab bookings. | React, Vite, Node.js, Cloudinary |
-| [**3D Bonsai Tree**](https://github.com/YOUR_USERNAME/bonsai-tree) | Procedural 3D red maple bonsai with wind and falling leaves, built as a reusable React component. | React, three.js |
-| [**PROJECT NAME**](https://github.com/YOUR_USERNAME/REPO) | One line about what it does and why it matters. | Tech, Tech |
-
+| [**clinic**](https://github.com/Ashish-kumawat1/clinic) | Multi-portal clinic management platform with separate admin, doctor, patient, lab and public portals. | ![lang](https://img.shields.io/github/languages/top/Ashish-kumawat1/clinic?style=flat-square&color=2c5364&label=) |
+| [**shopflow**](https://github.com/Ashish-kumawat1/shopflow) | Shopping app and my most active project, with 50+ commits and a pull-request workflow. | ![lang](https://img.shields.io/github/languages/top/Ashish-kumawat1/shopflow?style=flat-square&color=2c5364&label=) |
+| [**upi-fraud-ring**](https://github.com/Ashish-kumawat1/upi-fraud-ring) | UPI fraud ring detection project. | ![lang](https://img.shields.io/github/languages/top/Ashish-kumawat1/upi-fraud-ring?style=flat-square&color=2c5364&label=) |
+| [**sakura-tree**](https://github.com/Ashish-kumawat1/sakura-tree) | 3D cherry blossom tree for the web. | ![lang](https://img.shields.io/github/languages/top/Ashish-kumawat1/sakura-tree?style=flat-square&color=2c5364&label=) |
+| [**portfolio**](https://github.com/Ashish-kumawat1/portfolio) | My personal developer portfolio. | ![lang](https://img.shields.io/github/languages/top/Ashish-kumawat1/portfolio?style=flat-square&color=2c5364&label=) |
+ 
 ---
 
 ## 📊 GitHub Stats
