@@ -8,7 +8,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashish-kumawat-35b577304)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kumawatashish842@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white)]([https://YOUR_PORTFOLIO.com](https://akdevelpoer.netlify.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=googlechrome&logoColor=white)(https://akdevelpoer.netlify.app/))
 
 
 </div>
