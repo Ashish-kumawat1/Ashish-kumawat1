@@ -47,13 +47,13 @@ I'm a **full stack developer** who enjoys building products that people actually
 
 ## 🚀 Featured Projects
  
-| Project | What it does | Language |
-| :-- | :-- | :-- |
-| [**clinic**](https://github.com/Ashish-kumawat1/clinic) | Multi-portal clinic management platform with separate admin, doctor, patient, lab and public portals. | ![lang](https://img.shields.io/github/languages/top/Ashish-kumawat1/clinic?style=flat-square&color=2c5364&label=) |
-| [**shopflow**](https://github.com/Ashish-kumawat1/shopflow) | Shopping app and my most active project, with 50+ commits and a pull-request workflow. | ![lang](https://img.shields.io/github/languages/top/Ashish-kumawat1/shopflow?style=flat-square&color=2c5364&label=) |
-| [**upi-fraud-ring**](https://github.com/Ashish-kumawat1/upi-fraud-ring) | UPI fraud ring detection project. | ![lang](https://img.shields.io/github/languages/top/Ashish-kumawat1/upi-fraud-ring?style=flat-square&color=2c5364&label=) |
-| [**sakura-tree**](https://github.com/Ashish-kumawat1/sakura-tree) | 3D cherry blossom tree for the web. | ![lang](https://img.shields.io/github/languages/top/Ashish-kumawat1/sakura-tree?style=flat-square&color=2c5364&label=) |
-| [**portfolio**](https://github.com/Ashish-kumawat1/portfolio) | My personal developer portfolio. | ![lang](https://img.shields.io/github/languages/top/Ashish-kumawat1/portfolio?style=flat-square&color=2c5364&label=) |
+**| Project | What it does | Language | visibility |**
+| :-- | :-- | :-- | :-- |
+| [**clinic**](https://github.com/Ashish-kumawat1/clinic) | Multi-portal clinic management platform with separate admin, doctor, patient, lab and public portals. | ![lang](https://img.shields.io/github/languages/top/Ashish-kumawat1/clinic?style=flat-square&color=2c5364&label=) |private |
+| [**shopflow**](https://github.com/Ashish-kumawat1/shopflow) | Shopping app and my most active project, with 50+ commits and a pull-request workflow. | ![lang](https://img.shields.io/github/languages/top/Ashish-kumawat1/shopflow?style=flat-square&color=2c5364&label=) |private |
+| [**upi-fraud-ring**](https://github.com/Ashish-kumawat1/upi-fraud-ring) | UPI fraud ring detection project. | ![lang](https://img.shields.io/github/languages/top/Ashish-kumawat1/upi-fraud-ring?style=flat-square&color=2c5364&label=) |public |
+| [**sakura-tree**](https://github.com/Ashish-kumawat1/sakura-tree) | 3D cherry blossom tree for the web. | ![lang](https://img.shields.io/github/languages/top/Ashish-kumawat1/sakura-tree?style=flat-square&color=2c5364&label=) |public |
+| [**portfolio**](https://github.com/Ashish-kumawat1/portfolio) | My personal developer portfolio. | ![lang](https://img.shields.io/github/languages/top/Ashish-kumawat1/portfolio?style=flat-square&color=2c5364&label=) |public |
  
 ---
 
